@@ -20,7 +20,7 @@ const tracks = [
   { name: "Bad guy/THE INTERRUPTORS", file: "audio/ZOOM0061 - THE INTERRUPTORS - Bad guy.mp3", duration: "2:40" },
   { name: "Take on me/Ha ha", file: "audio/Ha ha - Take on me(Fred).mp3", duration: "3:55" },
   { name: "Monkey man/AMY WHINEHOUSE", file: "audio/AMY WHINEHOUSE - Monkey Man.mp3", duration: "2:56" },
-  { name: "I need a dollar/ALOE BLACC", file: "audio/ALOE BLACC - I need a dollar.mp3", duration: "2:56" },
+  { name: "I need a dollar/ALOE BLACC", file: "audio/ALOE BLACC - I need a dollar.mp3", duration: "4:03" },
  
    
 ];
