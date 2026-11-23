@@ -21,6 +21,7 @@ const tracks = [
   { name: "Monkey man/AMY WHINEHOUSE", file: "audio/AMY WHINEHOUSE - Monkey Man.mp3", duration: "2:56" },
   { name: "Smooth operator/SADE", file: "audio/ZOOM0039 - SADE - Smooth operator.mp3", duration: "4:16" },  
   { name: "Return of the haggis/THE HAGGIS HORN", file: "audio/ZOOM0024 - THE HAGGIS HORN - Return of the haggis.mp3", duration: "3:16" },
+  { name: "Résiste/GALL-BERGER", file: "audio/GALL - Résiste - AUD-20261027-WA0001.mp3", duration: "3:52" },
 ];
 
 
